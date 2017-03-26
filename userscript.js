@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         T411 anti pub
-// @version      0.2
+// @version      0.3
 // @description  Fait fonctionner le bouton de téléchargement si vous utilisez un bloqueur de pub
 // @author       Thibaut SEVERAC <thibaut.severac@ynov.com>
 // @supportURL https://github.com/thib3113/T411-anti-pub/issues
 // @include *.t411.li/*
+// @include *.t411.ai/*
 // @run-at document-end
 // @namespace https://greasyfork.org/users/33719
 // ==/UserScript==
