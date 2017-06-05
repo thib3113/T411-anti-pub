@@ -5,7 +5,7 @@
 // @author       Thibaut SEVERAC <thibaut.severac@ynov.com>
 // @supportURL https://github.com/thib3113/T411-anti-pub/issues
 // @include *.t411.li/*
-// @include *.t411.ai/*
+// @include *.t411.al/*
 // @run-at document-end
 // @namespace https://greasyfork.org/users/33719
 // ==/UserScript==
